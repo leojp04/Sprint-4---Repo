@@ -1,0 +1,11 @@
+2025-11-09 03:24:09 | DB_CONNECT | Conexão Oracle estabelecida.
+2025-11-09 03:24:09 | DDL_SKIP | Tabela REGISTROS já existe.
+2025-11-09 03:24:09 | DDL_SKIP | Sequence REGISTROS_SEQ já existe.
+2025-11-09 03:24:09 | DDL_SKIP | Coluna ATIVO já existe.
+2025-11-09 03:24:09 | DDL_SKIP | Coluna CRIADO_EM já existe.
+2025-11-09 03:24:09 | DDL_SKIP | Coluna ATUALIZADO_EM já existe.
+2025-11-09 03:24:30 | API_VIACEP_NOT_FOUND | 05594003
+2025-11-09 03:25:04 | API_VIACEP_OK | 05502001 -> Avenida Magalhães de Castro
+2025-11-09 03:25:04 | DB_CONNECT | Conexão Oracle estabelecida.
+2025-11-09 03:25:04 | CRUD_CREATE | ID=9 nome=Leo
+2025-11-09 03:25:21 | DB_CONNECT | Conexão Oracle estabelecida.

@@ -94,7 +94,7 @@ Diretório: Navegue no terminal para o diretório principal do projeto.
 
 Comando de Execução: Inicie o programa principal:
 
-python teste.py
+python main.py
 
 
 Resultado Esperado: O MENU PRINCIPAL será exibido, permitindo acesso às operações de CRUD e aos Relatórios (incluindo a função de Exportar JSON).
